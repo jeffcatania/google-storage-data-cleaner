@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel": "^5.8.23",
-    "fs": "0.0.2",
+    "csv": "^0.4.6",
     "gcloud": "^0.23.0"
   }
 }
